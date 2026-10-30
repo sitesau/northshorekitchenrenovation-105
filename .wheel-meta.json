@@ -1,0 +1,22 @@
+{
+  "wheel_id": 545,
+  "structure": "umbrella",
+  "slug": "northshorekitchenrenovation-105",
+  "project": "kitchen-renovations-north-shore-red-flags-74e7c91b99d6fa4ffa11e",
+  "parent_t1_ref": "northshorekitchenrenovation-152",
+  "node_role": "feeder",
+  "money_target": "northshorekitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations north shore red flags",
+  "intended_url": "https://sitesau.github.io/northshorekitchenrenovation-105/",
+  "tier": "T2",
+  "writeback_nonce": "5914067ce7cab8ae",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/kitchen-renovations-north-shore-beginner-guide-393a235c06805/",
+      "anchor": "https://vercel-cloudsites-hub.vercel.app/sites-01/kitchen-renovations-north-shore-beginner-guide-393a235c06805/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
